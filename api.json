@@ -3,25 +3,22 @@
     "pnrDisplayPnrResponse": {
         "passengerDetails": [
             {
-                "firstName": "DAMIEN",
-                "lastName": "DICKINSON",
+                "firstName": "SHERRI",
+                "lastName": "MERTZ",
                 "seats": {
-                    "preReservedSeats": {
-                        "preReservedSeat": [
-                            {
-                                "seatNumber": "1B",
-                                "smokingPrefOfferedIndicator": false,
-                                "seatTypeCode": "LMIPC",
-                                "seatStatusCode": "HK",
-                                "boardPoint": "GRU",
-                                "offPoint": "BSB",
-                                "id": "149"
-                            }
-                        ]
-                    },
+                    "preReservedSeats": {},
                     "seatSpecialRequests": {}
                 },
                 "nameNumber": "01.01"
+            },
+            {
+                "firstName": "RACHEL",
+                "lastName": "ZEMLAK",
+                "seats": {
+                    "preReservedSeats": {},
+                    "seatSpecialRequests": {}
+                },
+                "nameNumber": "02.01"
             }
         ],
         "segmentDetails": {
